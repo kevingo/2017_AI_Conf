@@ -1,8 +1,12 @@
 # Day 1
 
+## Taiwan's Opportunities in the AI-First World
+
 ## Deeper text mining
 
 ## 從資料競賽看應用實務 - KKV data game 17.06 1st place winner solution
+
+## Representation Learning on Big and Small Data
 
 ## Amazing GANs
 
@@ -13,6 +17,8 @@
 ## Defect Inspection with Deep Learning
 
 # Day 2
+
+## AlphaGo－深度學習與強化學習的勝利
 
 ## 文字分析在財務上的應用－以股價預測為例
 
